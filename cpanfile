@@ -1,7 +1,6 @@
 requires "Dancer2" => "0.166001";
 requires "Dancer2::Plugin::Auth::Extensible";
 requires "Dancer2::Session::Cookie";
-requires "Unix::Passwd::File";
 requires "Authen::Simple::PAM";
 
 
